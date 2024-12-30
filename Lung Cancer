@@ -49,6 +49,7 @@
       left: 70%;
     }
 
+
     .shape:nth-child(3) {
       width: 100px;
       height: 100px;

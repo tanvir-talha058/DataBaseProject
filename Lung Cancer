@@ -111,7 +111,7 @@
       animation: fadeIn 1.5s ease-out;
     }
 
-    /* Iframe styling */
+
     iframe {
       width: 100%;
       height: 100%;
@@ -119,7 +119,6 @@
       border-radius: 10px;
     }
 
-    /* Buttons section */
     .buttons {
       position: absolute;
       top: 10px;
@@ -147,7 +146,7 @@
       box-shadow: 0 6px 15px rgba(30, 60, 114, 0.6);
     }
 
-    /* Animation */
+   
     @keyframes fadeIn {
       from {
         opacity: 0;
@@ -159,7 +158,6 @@
       }
     }
 
-    /* Responsive adjustments */
     @media (max-width: 768px) {
       .container {
         width: 95%;
